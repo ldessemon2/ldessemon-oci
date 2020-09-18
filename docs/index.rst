@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to my collection of notes
+Notes to Myself on Oracle Cloud Infrastructure
 ==================================================
 
 Contents:
